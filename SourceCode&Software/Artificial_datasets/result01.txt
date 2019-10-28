@@ -1,0 +1,10 @@
+------Result parameter------
+Moran's I: 0.95
+Z Score: 3.03083280312237
+Sandard Deviation: 0.354687991661082
+Expected Moran's I: -0.125
+Given the z-score of 3.03083280312237, there is a less than 1% likelihood that this clustered pattern could be the result of random chance.
+------Input parameter------
+OD flow data: F:\Code\SourceCode&Software\Artificial_datasets\artificial_dataset_01.csv
+Spatial relationship metrix: F:\Code\SourceCode&Software\Artificial_datasets\artificial_dataset_metrix.csv
+Output message file: F:\Code\SourceCode&Software\Artificial_datasets\result01.txt
